@@ -1,4 +1,4 @@
-📊 Task 3: Dashboard Development
+ Task 3: Dashboard Development
 📌 Project Overview
 
 This project focuses on creating an interactive dashboard to visualize and analyze a dataset using Power BI. The dashboard provides meaningful insights into Amazon product reviews, helping users understand trends, customer sentiment, and product performance.
